@@ -2,7 +2,9 @@
 """
 Created on Thu Aug  3 08:39:21 2017
 
-@author: harne
+@author: MacKenzie Harnett
+
+tests existing turtle function and draws objects through it. 
 """
 import turtle 
 bob = turtle.Turtle()
