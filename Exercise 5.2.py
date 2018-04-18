@@ -3,6 +3,8 @@
 Created on Tue Aug  1 13:48:37 2017
 
 @author: MacKenzie Harnett
+
+Tests fermat's theorem across multiple code. 
 """
 'Exercise 5.2'
 'Problem 1'
