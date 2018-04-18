@@ -2,7 +2,9 @@
 """
 Created on Thu Aug  3 08:44:53 2017
 
-@author: harne
+@author: MacKenzie Harnett
+
+further test the turtle function. 
 """
 import turtle 
 bob = turtle.Turtle()
