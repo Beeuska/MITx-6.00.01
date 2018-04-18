@@ -2,7 +2,9 @@
 """
 Created on Thu Aug  3 08:26:52 2017
 
-@author: harne
+@author: Mackenzie Harnett
+
+Code calculates the number of days since the epoch. 
 """
 
 #Exercise 5.1
