@@ -2,7 +2,9 @@
 """
 Created on Tue Aug  1 14:06:47 2017
 
-@author: harne
+@author: MacKenzie Harnett
+
+Simple recursive practice
 """
 
 'Exercise 5.4'
