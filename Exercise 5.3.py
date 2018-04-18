@@ -2,7 +2,8 @@
 """
 Created on Tue Aug  1 13:58:54 2017
 
-@author: harne
+@author: MacKenzie Harnett
+Tests whether or not an object is a triangle. 
 """
 
 'Exerise 5.3'
